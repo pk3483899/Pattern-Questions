@@ -1,8 +1,8 @@
 //Print the given pattern
-//*****
-//*****
-//*****
-//*****
+//* * * * *
+//* * * * *
+//* * * * *
+//* * * * *
 
 package Patterns;
 import java.util.*;
